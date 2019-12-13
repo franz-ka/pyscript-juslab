@@ -9,5 +9,5 @@ juzgados_asignados.xls
 penal_df_Delitos.csv
 penal_df_DelitosId.xls
 #requirements.txt
-Tipos de delitos por complejidad - tipos-delitos.csv
+#Tipos de delitos por complejidad - tipos-delitos.csv
 venv/
