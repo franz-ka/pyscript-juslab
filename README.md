@@ -2,6 +2,8 @@
 #JusLab - Script para asignar causas judiciales por sorteo a los distintos juzgados
 
 ## Descripción
+Se puede ver una presentación del proyecto en [Presentación JusLab.odp](Presentación%20JusLab.odp) (se puede abrir con LibreOffice o Google Slides)
+
 El script [export_delitos_unique.py](export_delitos_unique.py) exporta los tipos de delitos únicos
 del csv [penal_df.csv](penal_df.csv) (mirando el campo id de los delitos *oju_id*).
 
