@@ -1,0 +1,13 @@
+delitos_id_unique.xls
+diccionario de datos ingresos a juzg_PorDificultad.xlsx
+#'diccionario de datos ingresos a juzg.xlsx'
+#export_delitos_unique.py
+gravedades_delitos.py
+juzgados_asignados.xls
+#main.py
+#penal_df.csv
+penal_df_Delitos.csv
+penal_df_DelitosId.xls
+#requirements.txt
+Tipos de delitos por complejidad - tipos-delitos.csv
+venv/
